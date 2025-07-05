@@ -1,5 +1,6 @@
 /*
-Merge Two Sorted Arrays bookmark_borderYou are given two sorted integer arrays A and B of size N and M respectively. Print the entire data in sorted order.
+Merge Two Sorted Arrays 
+You are given two sorted integer arrays A and B of size N and M respectively. Print the entire data in sorted order.
 
 Input Format
 First line of input contains N - the size of the array. The second line contains N integers - the elements of the first array. The third line contains M - the size of the second array. The fourth line contains M integers - the elements of the second array.
