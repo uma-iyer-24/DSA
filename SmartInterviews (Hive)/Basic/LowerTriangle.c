@@ -1,5 +1,6 @@
 /*
-Lower Triangle bookmark_borderGiven a square matrix of size N × N, find the sum of its lower triangle elements. 
+Lower Triangle 
+Given a square matrix of size N × N, find the sum of its lower triangle elements. 
 
 Input Format
  The first line of input contains N - the size of the matrix. It is followed by N lines each containing N integers - elements of the matrix.
