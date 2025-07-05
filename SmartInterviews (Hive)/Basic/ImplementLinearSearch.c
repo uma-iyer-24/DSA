@@ -1,5 +1,6 @@
 /*
-Implement Linear Search bookmark_borderGiven an array of integers, search a given key in the array using linear search.
+Implement Linear Search 
+Given an array of integers, search a given key in the array using linear search.
 
 Note:  Do not use any inbuilt functions / libraries for your main logic.  Input Format
 The first line of input contains two integers N and K. N is the size of the array and K is the key. The second line contains the elements of the array.
