@@ -1,5 +1,6 @@
 /*
-Number Distribution bookmark_borderPrint the count of the occurrences of positive integers, negative integers, and zeroes in the given array.
+Number Distribution 
+Print the count of the occurrences of positive integers, negative integers, and zeroes in the given array.
 
 Input Format
 The first line of the input contains an integer N - size of the array, second line of input contains an array elements of the array.
