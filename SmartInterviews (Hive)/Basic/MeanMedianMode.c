@@ -1,5 +1,6 @@
 /*
-Mean Median Mode bookmark_borderGiven a sorted array A, containing N integers. Calculate and print their Mean, Median and Mode.
+Mean Median Mode 
+Given a sorted array A, containing N integers. Calculate and print their Mean, Median and Mode.
 
 1. For both the Mean and Median, display the values with precision up to two decimal places.
 2. Print the first Mode that you encounter from the left hand side.
