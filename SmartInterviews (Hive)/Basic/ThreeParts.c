@@ -1,5 +1,6 @@
 /*
-Three Parts bookmark_borderGiven an array of integers A, print true if we can partition the array into three non-empty subarrays with equal sums.
+Three Parts 
+Given an array of integers A, print true if we can partition the array into three non-empty subarrays with equal sums.
 
 Input Format
 The first line of the input contains an integer N. Second line of input contains an array of size N.
