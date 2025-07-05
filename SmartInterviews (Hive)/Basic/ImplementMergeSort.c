@@ -1,5 +1,6 @@
 /*
-Implement Merge Sort bookmarkGiven an array of size N, implement Merge sort.
+Implement Merge Sort 
+Given an array of size N, implement Merge sort.
 
 Input Format
 The first line of input contains an integer N - the size of an array. The second line contains the elements of the array.
