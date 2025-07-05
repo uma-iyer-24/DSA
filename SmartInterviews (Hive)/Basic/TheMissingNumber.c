@@ -1,5 +1,6 @@
 /*
-The Missing Number bookmark_borderFind the missing number in the given list of integers. The list contains 1 to 100 integers but one of the integer is missing. There are no duplicates in the list.
+The Missing Number 
+Find the missing number in the given list of integers. The list contains 1 to 100 integers but one of the integer is missing. There are no duplicates in the list.
 
 Input Format
 Input contains a list of 99 integers.
