@@ -1,5 +1,6 @@
 /*
-Ternary Array bookmark_borderGiven an array A of size N, find the minimum cost to convert it to a ternary array B. A ternary array can only have 0 or 1 or 2. After conversion, ensure that A[i] != B[i]. The cost of converting A[i] to B[i] is | A[i] - B[i] |.
+Ternary Array 
+Given an array A of size N, find the minimum cost to convert it to a ternary array B. A ternary array can only have 0 or 1 or 2. After conversion, ensure that A[i] != B[i]. The cost of converting A[i] to B[i] is | A[i] - B[i] |.
 
 Input Format
 The first line of input contains a single integer N - the size of the array and the second line contains array elements.
