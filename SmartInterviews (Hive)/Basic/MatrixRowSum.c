@@ -1,5 +1,6 @@
 /*
-Matrix Row Sum bookmark_borderGiven a matrix of size N x M, print row-wise sum, separated by a newline.
+Matrix Row Sum 
+Given a matrix of size N x M, print row-wise sum, separated by a newline.
 
 Note: 
  Try to solve this without declaring / storing the matrix.  Input Format
