@@ -1,5 +1,6 @@
 /*
-Print Array A Using B bookmark_borderGiven two arrays, A and B, for each index 'i' in array B, print the corresponding element from array A if B[i] is within the range of A, otherwise print -1.
+Print Array A Using B 
+Given two arrays, A and B, for each index 'i' in array B, print the corresponding element from array A if B[i] is within the range of A, otherwise print -1.
 
 Input Format
 The first line of input contains an integer N - size of array A. The Second line of input contains elements of array A. The Third line of input contains an integer M - size of array B. The Fourth line of input contains elements of array B.
