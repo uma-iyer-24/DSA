@@ -1,5 +1,6 @@
 /*
-Unique Elements bookmark_borderPrint unique elements of the array in the same order as they appear in the input.
+Unique Elements 
+Print unique elements of the array in the same order as they appear in the input.
 
 Note: 
  Do not use any inbuilt functions / libraries for your main logic.  Input Format
