@@ -1,5 +1,6 @@
 /*
-Left Sum and Right Sum bookmark_borderGiven an array A of size N. Construct an array B, such that B[i] is calculated as follows:Find leftSum => sum of elements to the left of index i in array A; if none, use 0.Find rightSum => sum of elements to the right of index i in array A; if none, use 0.B[i] = | leftSum - rightSum |Your task is to simply print the B array.
+Left Sum and Right Sum 
+Given an array A of size N. Construct an array B, such that B[i] is calculated as follows:Find leftSum => sum of elements to the left of index i in array A; if none, use 0.Find rightSum => sum of elements to the right of index i in array A; if none, use 0.B[i] = | leftSum - rightSum |Your task is to simply print the B array.
 
 Input Format
 The first line of input contains the N - size of the array. The next line contains N integers - the elements of array A.
