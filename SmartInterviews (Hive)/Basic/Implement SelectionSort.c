@@ -1,5 +1,6 @@
 /*
-Implement Selection Sort bookmarkGiven an array of size N having unique elements, implement Selection Sort.
+Implement Selection Sort 
+Given an array of size N having unique elements, implement Selection Sort.
 Note: Implement Selection Sort by selecting smallest element at every step.
 
 Input Format
