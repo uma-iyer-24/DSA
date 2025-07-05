@@ -1,5 +1,6 @@
 /*
-Gauntlets bookmark_borderYou have a collection of N gauntlets, each with a specific color represented by A[i]. Your goal is to maximize the number of pairs by repeatedly pairing up gauntlets of the same color. Determine the maximum number of pairs that can be formed.
+Gauntlets 
+You have a collection of N gauntlets, each with a specific color represented by A[i]. Your goal is to maximize the number of pairs by repeatedly pairing up gauntlets of the same color. Determine the maximum number of pairs that can be formed.
 
 Input Format
 The first line of input contains an integer N. The second line of input contains an array of size N.
