@@ -1,5 +1,6 @@
 /*
-Submatrix Sum bookmark_borderGiven a matrix of size N x N and four integers (i, j, k, l), calculate the sum of the sub-matrix from (i, j) to (k, l).
+Submatrix Sum 
+Given a matrix of size N x N and four integers (i, j, k, l), calculate the sum of the sub-matrix from (i, j) to (k, l).
 
 Input Format
 The first line of input contains an integer N. Second line of input contains four integers i, j, k and l. It's followed by N lines each containing N integers - elements of the matrix.
