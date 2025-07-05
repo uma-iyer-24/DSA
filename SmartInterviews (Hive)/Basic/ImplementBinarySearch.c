@@ -1,5 +1,6 @@
 /*
-Implement Binary Search bookmark_borderGiven a sorted array A of size N, along with an integer target K, implement Binary Search to find the target K in the given array.
+Implement Binary Search 
+Given a sorted array A of size N, along with an integer target K, implement Binary Search to find the target K in the given array.
 
 Input Format
 The first line of input contains an integer N - the size of an array and target K. The second line contains the elements of the array.
