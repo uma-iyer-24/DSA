@@ -1,5 +1,6 @@
 /*
-Implement Insertion Sort bookmarkGiven an array of size N, implement Insertion Sort.
+Implement Insertion Sort 
+Given an array of size N, implement Insertion Sort.
 
 Input Format
 The first line of input contains an integer N - the size of an array. The second line contains the elements of the array.
