@@ -1,5 +1,6 @@
 /*
-Implement Bubble Sort bookmark_borderGiven an array of size N, implement Bubble Sort.
+Implement Bubble Sort 
+Given an array of size N, implement Bubble Sort.
 
 Input Format
 The first line of input contains an integer N - the size of an array. The second line contains the elements of the array.
