@@ -1,5 +1,6 @@
 /*
-First and Last bookmark_borderYou are given an array A of size N, containing integers. Your task is to find the first and last occurrences of a given element X in the array A and print them.
+First and Last 
+You are given an array A of size N, containing integers. Your task is to find the first and last occurrences of a given element X in the array A and print them.
 
 Input Format
 The input consists of three lines. The first line contains a single integer N - the size of the array. The second line contains N integers separated by a space, representing the elements of the array A. The third line contains a single integer X.
