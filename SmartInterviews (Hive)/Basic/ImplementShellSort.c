@@ -1,5 +1,6 @@
 /*
-Implement Shell Sort bookmarkGiven an array of size N, implement Shell Sort.
+Implement Shell Sort 
+Given an array of size N, implement Shell Sort.
 Note: Initially gap=N/2, for each iteration, gap reduces by half.
 
 Input Format
