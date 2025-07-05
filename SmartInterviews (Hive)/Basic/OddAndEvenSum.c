@@ -1,7 +1,5 @@
 /*
-Odd and Even Sum bookmark_border
-
-
+Odd and Even Sum
 Given an array of size N. Print the sum of odd and even numbers separated by a space.
 
 
